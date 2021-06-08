@@ -29,6 +29,8 @@ public class Data {
 		int physicalNumberOfCells = r.getPhysicalNumberOfCells();
 		System.out.println(physicalNumberOfCells);
 		
+		System.out.println("Test2");
+		
 		}
 
 }
